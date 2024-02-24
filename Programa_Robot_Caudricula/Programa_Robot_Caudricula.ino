@@ -94,7 +94,7 @@ const float anchorobot = 21;
 #define DELAY_SALIDA                   1000*((26+11.5)/velocidad)
 #define DELAY_LLEGADA_C                1000*((11.5)/velocidad)
 #define DELAY_LLEGADA_L                1000*((13+11.5)/velocidad)
-#define VEL_REL_GIRO_90_o              0.90  // En tanto por uno
+#define VEL_REL_GIRO_90_o              0.50  // En tanto por uno
 #define VEL_REL_GIRO_90_f              0.3  // En tanto por uno
 #define ANGULO_CAMBIO_VEL              60
 #define VEL_REL_GIRO_IR                0.2  // En tanto por uno
