@@ -7,12 +7,12 @@ El conjunto de programas del robot cuando se presentó al concurso Astichallenge
 
 Robot realizado por: <br>
 Release 20/21: Leonel, Manu, Andrés <br>
-Release 19/20: Leonel, Andrés, Raúl, Luis, Héctor, Henrry, Dani, Jesús <br>
+Release 19/20: Leonel, Andrés, Raúl, Luis, Héctor, Henrry, Dani y Jesús <br>
 
 <br>
 <br>
 
-## Imagenes
+## Imágenes
 <br>
 
 <div align="center">
