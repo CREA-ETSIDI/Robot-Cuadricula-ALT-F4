@@ -9,9 +9,11 @@ Robot realizado por: <br>
 Release 20/21: Leonel, Manu, Andrés <br>
 Release 19/20: Leonel, Andrés, Raúl, Luis, Héctor, Henrry, Dani, Jesús <br>
 
+<br>
+<br>
 
-
-### Imagenes
+## Imagenes
+<br>
 
 <div align="center">
 <img src="Media/Imagen_Robot.JPG" alt="Robot" display="block" margin-left="auto"  margin-right="auto" width="65%">
@@ -28,7 +30,8 @@ Release 19/20: Leonel, Andrés, Raúl, Luis, Héctor, Henrry, Dani, Jesús <br>
 </div>
 
 
-### Instrucciones de uso:
+
+## Instrucciones de uso:
 
 - Verificar que la batería está cargada
 
@@ -38,9 +41,10 @@ Release 19/20: Leonel, Andrés, Raúl, Luis, Héctor, Henrry, Dani, Jesús <br>
 
 - Colocar en la posición de salida al robot, encendero y esperar a la autocalibración del giroscopio
 
+<br>
+<br>
 
-
-### Notas informativas:
+## Notas informativas:
 
 Más información del concurso en: <br>
 https://astichallenge.com/
